@@ -1,0 +1,15 @@
+05/05/2024
+Inicio do curso
+
+Intro do curso
+    Resumo bem basico de JavaScript
+
+Aula 01
+    Aplicações do JavaScript mais populares. Exemplos foram site do Google, YouTube, Facebook, LinkedIn entre outros.
+
+Aula 02
+    Explicação sobre a linha do tempo de como o JavaScript chegou aonde está e como é hoje.
+    AULA MUITO IMPORTANTE, REASSISTIR QUANDO TERMINAR O CURSO!
+
+Aula 03
+    Recomendação de literaturas, quebras de paradigmas com relação a requisitos e metodologias para o aprendizado e, por fim, instalação do VsCode, Chrome e NodeJS.
