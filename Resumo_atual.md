@@ -75,3 +75,6 @@
 - Exercícios Propostos
 
 # Aula 11 - Condições (parte 1)
+- Aula conceito de IF.
+- Condição Simples: Apenas 1 condição. (IF).
+- Condição Composta: Mais de 1 condição. (IF ELSE).
