@@ -55,3 +55,23 @@
 - Operador relacional nao tem order de prioridade.
 - Operadores Lógicos tem a seguinte order de prioridade !, &&, ||
 - Operador Ternario media > 7 ? 'APROVADO' : 'REPROVADO'
+
+# Modulo C - Entendendo o DOM
+- Document Object Model
+- Árvore DOM
+
+# Aula 09 - Introdução ao DOM
+- Reassistir essa aula
+
+# Aula 10 - Eventos DOM
+- mouseenter, mousemove, mousedown, mouseup, click, mouseout.
+- Programar uma Calculadora simples de Adição com evento click.
+
+# Modulo D - Condições em JavaScript
+- Condições Simples
+- Condições Compostas
+- Condições Alinhadas
+- Condições Múltiplas
+- Exercícios Propostos
+
+# Aula 11 - Condições (parte 1)
