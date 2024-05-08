@@ -78,3 +78,12 @@
 - Aula conceito de IF.
 - Condição Simples: Apenas 1 condição. (IF).
 - Condição Composta: Mais de 1 condição. (IF ELSE).
+- Extensões interessantes (NodeExec, Live Server).
+
+# Aula 12 - Condições (parte 2)
+- Condições Aninhadas (ELSE IF).
+- Pegar hora do sistema com objeto do tipo Date() pela função getHours().
+- Condições Multiplas (SWITCH).
+
+# Aula 12 - Exercícios  
+- 
