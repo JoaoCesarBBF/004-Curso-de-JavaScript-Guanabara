@@ -86,4 +86,10 @@
 - Condições Multiplas (SWITCH).
 
 # Aula 12 - Exercícios  
-- 
+- Verificador de hora com imagem e formatação da pagina.
+- Verificador de idade e genero com imagem dinamica.
+
+# Modulo E - Estruturas de Repetiçao
+- While
+- Do While
+- For
