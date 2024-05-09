@@ -93,3 +93,9 @@
 - While
 - Do While
 - For
+
+# Aula 13 - Repetições (parte 1)
+- Exemplo de While e Do While.
+
+# Aula 14 - Repetições (parte 2)
+- Exemplo de For.
