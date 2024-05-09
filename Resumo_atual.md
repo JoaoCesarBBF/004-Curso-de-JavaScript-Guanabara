@@ -99,3 +99,17 @@
 
 # Aula 14 - Repetições (parte 2)
 - Exemplo de For.
+
+# Aula 14 - Exercícios
+- Exercício de contador com seleção de inicio, fim e passo.
+- Exercício de tabuada com seleção do número.
+
+# Modulo F
+- Variáveis Compostas
+- Uso de funções e eventos
+- Passagem de Parâmetros
+- Exercícios Propostos
+- Próximos Passos
+
+# Aula 15 - Vetores
+- 
