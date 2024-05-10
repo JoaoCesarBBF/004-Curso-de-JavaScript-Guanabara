@@ -111,5 +111,17 @@
 - Exercícios Propostos
 - Próximos Passos
 
-# Aula 15 - Vetores
-- 
+# Aula 15 - Vetores (Arrays)
+- Um Array (ou Vetor ou Variável Composta) é uma variável que tem vários Elementos. Cada Elemento é composto por valor e por uma chave de identificação.
+- .lenght .sort() .push(n)
+- FOR SIMPLIFICADO!  **for (let pos in valores){}**
+- Buscar Valores no Vetor com .indexOf(Valor)
+- Quando o .indexOf(valor) não encontra o valor ele retorna "-1"
+
+# Aula 16 - Funções
+- Funções são ações executadas assim que são **chamadas** ou em decorreência de algum **evento**.
+- Uma função pode receber parâmetros e retornar um resultado.
+
+# Exercicio final
+- Concluido
+- Ordenação usada: vet.sort((a,b) => a- b)
